@@ -1,2 +1,2 @@
-# V-rus-Community-
+# Virus-Community-
 SAMP community
